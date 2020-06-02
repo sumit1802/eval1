@@ -63,7 +63,7 @@
     </div> 
       </div>
       <div class="navbar navbar-expand-lg navbar-dark bg-dark" id="footer">
-        <a class="navbar-brand mx-auto">Copyright 2020, Nishad Raisinghani.</a>
+        <a class="navbar-brand mx-auto">Copyright 2020, Sumit Bhattacharya.</a>
       </div>
 </body>
 </html>
